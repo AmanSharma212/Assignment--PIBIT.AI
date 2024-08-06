@@ -1,0 +1,90 @@
+{
+  "name": "Aman Sharma",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra"
+  },
+  "contact": {
+    "phone": "91-9082541808",
+    "email": "sharma.aman00212@gmail.com",
+    "linkedin": "linkedin.com/in/amansharma005",
+    "github": "github.com/AmanSharma212"
+  },
+  "projects": [
+    {
+      "title": "Bank Loan Analysis",
+      "technologies": ["Python", "Power BI"],
+      "duration": "Jan 2024 - Mar 2024",
+      "description": "Got into the Finance domain with a Bank Loan Analysis using Power BI and SQL. Explored the ins and outs of Power BI covering everything needed to know to master data visualization and analysis."
+    },
+    {
+      "title": "FIFA Player Analysis",
+      "technology": "Python",
+      "duration": "Sept 2023 – Nov 2023",
+      "description": "Created a FIFA players analysis project developed an innovative initiative aimed at extracting insights and patterns from data related to professional soccer players. Collected and analyzed extensive datasets containing information on player statistics attributes ratings and performance history."
+    },
+    {
+      "title": "Sign Language Detection",
+      "technology": "Python",
+      "duration": "Jan 2023 - May 2023",
+      "description": "Created a System for dumb and deaf people that helps in communication using Sign Language. Developed and implemented a computer vision system that recognizes and interprets sign language gestures in real time."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Getting and Cleaning Data on R studio",
+      "date": "March 2024",
+      "provider": "Coursera"
+    },
+    {
+      "name": "Introduction to Statistics from Stanford Online",
+      "date": "Nov 2023",
+      "provider": "Coursera"
+    },
+    {
+      "name": "Power BI",
+      "date": "April 2023",
+      "provider": "Atos"
+    },
+    {
+      "name": "Web Developments",
+      "date": "March 2022",
+      "provider": "Max Academy"
+    }
+  ],
+  "technical_skills": {
+    "languages": ["C", "C++", "Python", "R programming", "HTML", "CSS"],
+    "technologies_frameworks": ["Excel", "SQL", "Power BI", "NumPy", "Pandas", "Matplotlib"],
+    "skills": ["Problem-Solving", "Data Analytics"]
+  },
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "location": "Phagwara, Punjab",
+      "degree": "M. Tech. in Data Science and Analytics",
+      "duration": "Aug 2023 – Present",
+      "cgpa": 8.17
+    },
+    {
+      "institution": "Universal College of Engineering",
+      "location": "Mumbai, Maharashtra",
+      "degree": "B. Tech in Computer Science",
+      "duration": "Aug 2019 – May 2023",
+      "cgpa": 8.79
+    },
+    {
+      "institution": "Shri T.P Bhatia",
+      "location": "Mumbai, Maharashtra",
+      "degree": "Higher Secondary",
+      "duration": "July 2017 – June 2019",
+      "percentage": 78.77
+    },
+    {
+      "institution": "Mother Teresa English Secondary School",
+      "location": "Mumbai, Maharashtra",
+      "degree": "Secondary",
+      "duration": "June 2007 – July 2017",
+      "percentage": 84
+    }
+  ]
+}
